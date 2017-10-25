@@ -1,0 +1,8 @@
+shiny
+tidyverse
+visNetwork
+igraph
+janitor
+RSQLite
+dbplyr
+RMySQL
